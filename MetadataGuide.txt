@@ -7,3 +7,5 @@ Kolumny druga ("beer_servings"), trzecia ("spirit_servings") i czwarta ("wine_se
 Ostatnia kolumna ("total_litres_of_pure_alcohol") przedstawia ile litrów czystego alkoholu wypiła średnio osoba w danym kraju w roku 2010.
 
 Kolumna "beer_servings" przedstawiona jest w ilości puszek, "spirit_servings" w miarkach lub tak zwanych szotach, a kolumna "wine_servings" w ilości szklanek (wszystko w odniesieniu osoba/rok). 
+
+Plik zrzesza dane z 193 krajów.
