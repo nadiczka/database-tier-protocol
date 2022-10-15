@@ -1,4 +1,4 @@
-# AnalizaIBazyDanych
+# studies-analysis-and-databases
 
 ### The project has been created during studies. 
 
